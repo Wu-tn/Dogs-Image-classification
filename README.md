@@ -1,6 +1,6 @@
 # Dogs-Image-classification
 '''
-team-work for dogs image classfication
+team-work for dogs image classfication/n
 using model Resnet-34
 '''
 #First step
